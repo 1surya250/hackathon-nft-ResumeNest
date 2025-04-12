@@ -1,0 +1,54 @@
+# Project Title:
+ResumeNest
+
+## Selected Domain
+web development
+
+## Problem Statement / Use Case
+Users can build resumes and mint NFT-based skill badges stored on Aptos
+
+
+##  Abstract / Problem Description
+Today’s job seekers face a credibility gap between resumes and actual skills.
+Our project leverages Lovable AI to create optimized resumes and integrates the Aptos blockchain to issue NFT-based badges. 
+These badges serve as verifiable credentials for achievements like resume completion, top scoring resumes, or specializations.
+It combines AI, Web3, and a clean user interface to provide a modern, credible resume-building experience.
+
+Objectives:-
+
+The primary objectives of the Resume Builder project are:
+
+To simplify the resume creation process.
+
+To offer multiple professionally designed templates.
+
+To allow users to download resumes in PDF format.
+
+To build a responsive and user-friendly platform accessible on all devices.
+
+Ease of use for job seekers :
+Not everyone knows how to format a professional resume.A resume builder provides user friendly templates and guided input,making it easier for people to craft polished resumes without starting from scratch.
+Standardization and Best practices:
+It ensures users follow industry standards and recruiter expectations.
+Time efficiency:
+It saves time- users can generate tailored resumes for different jobs in minutes.
+customization and personalization:
+Allows users to customize their resume design and content based on job role without needing design software.
+Career support:
+It can be a part of a larger ecosystem that supports users with-
+->cover letter creation 
+->job matching 
+->Interview tips
+->linkedIn optimization.
+
+
+## 🛠️ Tech Stack Used
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js / Express (optional)
+- Blockchain: Aptos, Move Language
+- Wallet Integration: Petra Wallet, Aptos SDK
+- AI Resume Builder: Lovable AI
+- Hosting: Vercel / Netlify
+- Storage: IPFS (via NFT.storage / Pinata)
+
+## 📚 Project Explanation
